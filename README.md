@@ -15,3 +15,10 @@
 Using Autoencoders for Removing Noise from Noisey Images
 
 
+
+ Autoencoders on Noise Removal file:
+
+Using AutoEncoders as Noise Removal 
+
+
+
